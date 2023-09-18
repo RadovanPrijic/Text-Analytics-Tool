@@ -1,5 +1,7 @@
 # AngularDomaciZadatak
 
+[Specifikacija.docx](https://github.com/RadovanPrijic/Text-Analytics-Tool/files/12647350/Specifikacija.docx)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
 ## Development server
